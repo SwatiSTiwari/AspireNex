@@ -3,7 +3,7 @@ import { IExperienceItem } from "@/types";
 const experiences: IExperienceItem[] = [
 
   {
-    designation: "CTO",
+    designation: "Software Engineer",
     company: "Auctionwale",
     startDate: "Jun 2024",
     endDate: "",
@@ -12,7 +12,7 @@ const experiences: IExperienceItem[] = [
     shortDescription:
       "I had the privilege of spearheading the development of the company's website and other technical things",
     description:
-      "As the Chief Technology Officer (CTO) of a company, my role is to provide strategic leadership and oversight for all technology-related aspects of the business. I am responsible for aligning the company's technology initiatives with its overall business objectives, ensuring that the organization remains competitive and innovative in the rapidly evolving digital landscape.",
+      "As software devloper of a company, my role is to provide strategic leadership and oversight for all technology-related aspects of the business. I am responsible for aligning the company's technology initiatives with its overall business objectives, ensuring that the organization remains competitive and innovative in the rapidly evolving digital landscape.",
   },
 
   {
